@@ -6,6 +6,7 @@ export const metadata = {
     },
 };
 
+
 export default function Home() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-gray-100 to-gray-300 p-4">
