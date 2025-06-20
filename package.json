@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "find-cache-dir": "^5.0.0",
-    "next": "15.3.4",
+    "next": "^14.1.0",
     "next-on-netlify": "^3.0.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
